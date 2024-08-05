@@ -1,0 +1,126 @@
+Código_Piso,Nombre_Piso,Formación,Superficie_total_(km2),Superficie_remanente _(km2),Pérdida_proyectada_50_años_(%),Pérdida_Histórica_(%),Criterio_UICN_A2b,Criterio_UICN_A3,Evaluación_Final
+P1,Desierto tropical interior con vegetación escasa,Desierto,58005,56722,0.000189081191131907,2.21252797314973,LC,LC,LC
+P2,Dunas tropicales costeras de Tillandsia landbeckii - T. marconae,Dunas de aerófitos,381,381,0.00,0.00525079917164817,LC,LC,LC
+P3,Herbazal efímero tropical costero de Nolana adansonii - N. lycioides,Herbazal efímero,757,732,0.152546384275149,3.32835256548711,LC,LC,LC
+P4,Matorral desértico tropical interior Malesherbia auristipulata - Tarasa operculata,Matorral desértico,533,529,0.00,0.774400649898169,LC,LC,LC
+P5,Matorral desértico tropical interior de Atriplex atacamensis - Tessaria absinthioides,Matorral desértico,8803,8484,-0.0110586876213022,3.61647702644872,LC,LC,LC
+P6,Matorral desértico tropical costero de Nolana sedifolia / Eulychnia iquiquensis,Matorral desértico,1297,1288,0.00,0.669176702607928,LC,LC,LC
+P7,Matorral desértico tropical-mediterráneo costero de Ephedra breana / Eulychnia iquiquensis,Matorral desértico,3083,3051,0.004449043555578,1.03263507230474,LC,LC,LC
+P8,Matorral desértico tropical-mediterráneo costero de Copiapoa boliviana - Heliotropium pycnophyllum,Matorral desértico,1263,1222,0.00,3.18617239846573,LC,LC,LC
+P9,Matorral desértico mediterráneo costero de Gypothamnium pinifolium - Heliotropium pycnophyllum,Matorral desértico,826,808,0.124269948870748,2.260898606791,LC,LC,LC
+P10,Matorral desértico mediterráneo costero de Euphorbia lactiflua / Eulychnia iquiquensis,Matorral desértico,709,709,0.171827004430796,0.130446364767764,LC,LC,LC
+P11,Matorral desértico mediterráneo costero de Euphorbia lactiflua / Eulychnia saint-pieana,Matorral desértico,1668,1668,0.00,0.0,LC,LC,LC
+P12,Matorral desértico mediterráneo interior de Oxyphyllum ulicinum - Gymnophyton foliosum,Matorral desértico,2799,2790,0.0258048681743983,0.325682816487628,LC,LC,LC
+P13,Matorral desértico mediterráneo costero de Heliotropium floridum - Atriplex clivicola,Matorral desértico,1267,1253,0.0640041115858142,1.1264945702777,LC,LC,LC
+P14,Matorral desértico mediterráneo costero de Oxalis virgosa / Eulychnia breviflora,Matorral desértico,758,691,0.0135579111532449,8.78047589993898,LC,LC,LC
+P15,Matorral desértico tropical-mediterráneo interior de Skytanthus acutus - Atriplex deserticola,Matorral desértico,16355,16073,0.00,1.72568337992084,LC,LC,LC
+P16,Matorral desértico tropical interior de Huidobria chilensis - Nolana leptophylla,Matorral desértico,1281,1256,0.0476533576575518,1.93326852629815,LC,LC,LC
+P17,Matorral desértico mediterráneo costero de Oxalis virgosa - Heliotropium stenophyllum,Matorral desértico,2964,2491,0.0248935539587503,15.9785348594315,LC,LC,LC
+P18,Matorral desértico mediterráneo interior de Adesmia argentea - Bulnesia chilensis,Matorral desértico,12616,12361,0.00,2.01412067331233,LC,LC,LC
+P19,Matorral desértico mediterráneo interior de Heliotropium stenophyllum - Flourensia thurifera,Matorral desértico,4584,3953,0.00,13.7708709183501,LC,LC,LC
+P20,Matorral desértico mediterráneo interior de Flourensia thurifera - Colliguaja odorifera,Matorral desértico,9230,8739,-0.0000457716210662229,5.3191666858794,LC,LC,LC
+P21,Matorral desértico mediterráneo costero de Bahia ambrosioides / Puya chilensis,Matorral desértico,1096,952,0.00,13.1552847315053,LC,LC,LC
+P22,Matorral bajo desértico tropical interior de Adesmia atacamensis - Cistanthe salsoloides,Matorral bajo desértico,23934,23454,-0.00223628324932201,2.00425881563882,LC,LC,LC
+P23,Matorral bajo desértico tropical andino de Atriplex imbricata - Acantholippia deserticola,Matorral bajo desértico,14073,13917,-0.0072484747987534,1.10765415607561,LC,LC,LC
+P24,Matorral bajo desértico tropical interior de Nolana leptophylla - Cistanthe salsoloides,Matorral bajo desértico,14623,14570,-0.000605706447948502,0.363816100848567,LC,LC,LC
+P25,Matorral bajo desértico tropical-mediterráneo andino de Atriplex imbricata,Matorral bajo desértico,9953,9926,-0.00213334213467759,0.273035579836602,LC,LC,LC
+P26,Matorral bajo desértico mediterráneo andino de Senecio proteus - Haplopappus baylahuen,Matorral bajo desértico,3656,3621,0.00,0.950454420359549,LC,LC,LC
+P27,Matorral espinoso mediterráneo interior de Trevoa quinquinervia - Colliguaja odorifera,Matorral espinoso,1219,874,0.168452858024368,28.266889000311,LC,LC,LC
+P28,Matorral espinoso mediterráneo interior de Puya coerulea - Colliguaja odorifera,Matorral espinoso,493,493,0.027698543259541,0.0504812245945914,LC,LC,LC
+P29,Bosque espinoso tropical interior de Prosopis tamarugo / Tessaria absinthiodes,Bosque espinoso,685,429,0.10063450433746,37.3839909266671,LC,LC,LC
+P30,Bosque espinoso tropical interior de Geoffroea decorticans - Prosopis alba,Bosque espinoso,592,477,0.242719667850925,19.4902433586159,LC,LC,LC
+P31,Bosque espinoso tropical andino de Browningia candelaris - Corryocactus brevistylus,Bosque espinoso,2160,2129,-0.000833908299380663,1.45655571367853,LC,LC,LC
+P32,Bosque espinoso mediterráneo interior de Acacia caven - Prosopis chilensis,Bosque espinoso,3403,1156,2.11806521055677,66.0218067161658,LC,VU,VU
+P33,Bosque espinoso mediterráneo andino de Acacia caven / Baccharis paniculata,Bosque espinoso,1024,478,8.58978707012595,53.3714111007843,LC,VU,VU
+P34,Bosque espinoso mediterráneo costero de Acacia caven - Maytenus boaria,Bosque espinoso,4089,2145,34.7794975514957,47.5468816857115,VU,LC,VU
+P35,Bosque espinoso mediterráneo interior de Acacia caven - Lithraea caustica,Bosque espinoso,7473,2697,72.2856730586745,63.9060935533037,EN,VU,EN
+P36,Matorral arborescente esclerofilo mediterráneo costero de Peumus boldus - Schinus latifolia,Matorral esclerofilo,1956,1465,7.03172567350248,25.1087321191569,LC,LC,LC
+P37,Matorral arborescente esclerofilo mediterráneo interior Quillaja saponaria / Porlieria chilensis,Matorral esclerofilo,3198,3064,0.00212988797866761,4.20524085153652,LC,LC,LC
+P38,Bosque esclerofilo mediterráneo andino de Kageneckia angustifolia / Guindilia trinervis,Bosque esclerofilo,4591,4546,0.00,0.977523268915107,LC,LC,LC
+P39,Bosque esclerofilo mediterráneo costero de Cryptocarya alba - Peumus boldus,Bosque esclerofilo,4697,4220,4.60760904427132,10.1432354747294,LC,LC,LC
+P40,Bosque esclerofilo mediterráneo costero de Lithraea caustica - Cryptocarya alba,Bosque esclerofilo,4671,2623,10.0787280785606,43.8384257886652,LC,LC,LC
+P41,Bosque esclerofilo mediterráneo andino de Quillaja saponaria - Lithraea caustica,Bosque esclerofilo,4534,2921,0.930858907334181,35.5700820983931,LC,LC,LC
+P42,Bosque esclerofilo mediterráneo costero de Lithraea caustica - Azara integrifolia,Bosque esclerofilo,5852,2138,100.00,63.4718603357142,CR,VU,CR
+P43,Bosque esclerofilo mediterráneo interior de Lithraea caustica - Peumus boldus,Bosque esclerofilo,9721,3116,90.4566561979424,67.9508325743304,CR,VU,CR
+P44,Bosque esclerofilo mediterráneo andino de Lithraea caustica - Lomatia hirsuta,Bosque esclerofilo,1637,1001,41.5895298237594,38.8378076962819,VU,LC,VU
+P45,Bosque esclerofilo psamófilo mediterráneo interior de Quillaja saponaria / Fabiana imbricata,Bosque esclerofilo,4635,718,100.00,84.5195399723978,CR,EN,CR
+P46,Bosque caducifolio mediterráneo costero de Nothofagus macrocarpa / Ribes punctatum,Bosque caducifolio,881,881,0.139422653431331,0.0609081450945723,LC,LC,LC
+P47,Bosque caducifolio mediterráneo interior de Nothofagus obliqua - Cryptocarya alba,Bosque caducifolio,8953,1801,100.00,79.8798071091205,CR,EN,CR
+P48,Bosque caducifolio mediterráneo-templado andino de Nothofagus obliqua - Austrocedrus chilensis,Bosque caducifolio,3761,3643,2.38066902515409,3.11874267921222,LC,LC,LC
+P49,Bosque caducifolio mediterráneo costero de Nothofagus glauca - Azara petiolaris,Bosque caducifolio,1119,282,100.00,74.7725426155789,CR,EN,CR
+P50,Bosque caducifolio mediterráneo costero de Nothofagus glauca - Persea lingue,Bosque caducifolio,2513,613,100.00,75.6082894438838,CR,EN,CR
+P51,Bosque caducifolio mediterráneo andino de Nothofagus glauca - N. obliqua,Bosque caducifolio,1889,1127,47.6283935730288,40.3214022708553,VU,LC,VU
+P52,Bosque caducifolio mediterráneo costero de Nothofagus obliqua - Gomortega keule,Bosque caducifolio,2623,540,100.00,79.4012387763582,CR,EN,CR
+P53,Bosque caducifolio mediterráneo de Nothofagus obliqua - Persea lingue,Bosque caducifolio,7785,1270,100.00,83.6831300998166,CR,EN,CR
+P54,Bosque caducifolio templado de Nothofagus obliqua - Laurelia sempervirens,Bosque caducifolio,19660,4922,93.5933178049991,74.9631156005693,CR,EN,CR
+P55,Bosque mixto mediterráneo-templado costero de Nothofagus dombeyi - N. obliqua,Bosque caducifolio,4384,1228,100.00,71.9918135888431,CR,EN,CR
+P56,Bosque caducifolio templado costero de Nothofagus alpina - Persea lingue,Bosque caducifolio,1751,835,81.9857086429533,52.2985617904218,CR,VU,CR
+P57,Bosque caducifolio mediterráneo-templado andino de Nothofagus alpina - N. obliqua,Bosque caducifolio,636,608,1.25137952045427,4.4513884303238,LC,LC,LC
+P58,Bosque caducifolio templado andino de Nothofagus alpina - Dasyphyllum diacanthoides,Bosque caducifolio,5715,2783,66.7563185555875,51.3037791009982,EN,VU,EN
+P59,Bosque caducifolio templado andino de Nothofagus alpina - N. dombeyi,Bosque caducifolio,2764,2637,2.4333941314533,4.57425468938963,LC,LC,LC
+P60,Bosque caducifolio mediterráneo-templado andino de Nothofagus pumilio - N. obliqua,Bosque caducifolio,1527,1519,0.312711847673701,0.493188652436743,LC,LC,LC
+P61,Bosque caducifolio templado andino de Nothofagus pumilio - Araucaria araucana,Bosque caducifolio,3506,3274,1.58824182457689,6.60481546985608,LC,LC,LC
+P62,Bosque caducifolio templado andino de Nothofagus pumilio / Drimys andina,Bosque caducifolio,3658,3650,0.00,0.214567534628486,LC,LC,LC
+P63,Bosque caducifolio templado andino de Nothofagus pumilio / Berberis ilicifolia,Bosque caducifolio,10512,9641,0.00,8.28749390400991,LC,LC,LC
+P64,Bosque caducifolio templado andino de Nothofagus pumilio / Azara alpina,Bosque caducifolio,2737,2722,0.387538508648894,0.547062367915714,LC,LC,LC
+P65,Bosque caducifolio templado andino de Nothofagus pumilio / Ribes cucullatum,Bosque caducifolio,4741,4738,0.00,0.0593847400898255,LC,LC,LC
+P66,Bosque caducifolio templado-antiboreal andino de Nothofagus pumilio / Maytenus disticha,Bosque caducifolio,10775,10773,0.00,0.0239437962259643,LC,LC,LC
+P67,Matorral caducifolio templado andino de Nothofagus antarctica,Matorral caducifolio,7214,7209,0.00,0.0652553542016676,LC,LC,LC
+P68,Matorral caducifolio templado andino de Nothofagus antarctica / Empetrum rubrum,Matorral caducifolio,2857,2857,0.00,0.00660717872767691,LC,LC,LC
+P69,Matorral arborescente caducifolio mediterráneo-templado oriental de Nothofagus antarctica / Berberis microphylla,Matorral caducifolio,3558,3279,0.00,7.81926768775122,LC,LC,LC
+P70,Matorral arborescente caducifolio templado-antiboreal andino de Nothofagus antarctica / Chiliotrichum diffusum,Matorral caducifolio,6781,6776,0.00,0.076528060013402,LC,LC,LC
+P71,Bosque laurifolio templado costero de Aextoxicon punctatum - Laurelia sempervirens,Bosque laurifolio,986,284,100.00,71.1895260049715,CR,EN,CR
+P72,Bosque laurifolio templado costero de Weinmannia trichosperma - Laureliopsis philippiana,Bosque laurifolio,2268,2172,4.97536614014469,4.23926190116565,LC,LC,LC
+P73,Bosque laurifolio templado interior de Nothofagus dombeyi - Eucryphia cordifolia,Bosque laurifolio,10170,5927,25.8567405583612,41.7200727404673,LC,LC,LC
+P74,Bosque resinoso templado costero de Araucaria araucana,Bosque resinoso de coníferas,292,269,4.50407554109915,7.88779728292454,LC,LC,LC
+P75,Bosque resinoso templado andino de Araucaria araucana - Nothofagus dombeyi,Bosque resinoso de coníferas,2134,2117,0.00539577170800714,0.780067643349895,LC,LC,LC
+P76,Bosque resinoso mediterráneo-templado andino de Araucaria araucana / Festuca scabriuscula,Bosque resinoso de coníferas,1291,1209,5.1166765339976,6.36855893004193,LC,LC,LC
+P77,Bosque resinoso templado costero de Fitzroya cupressoides,Bosque resinoso de coníferas,1261,1260,0.183509040429036,0.0609949045343683,LC,LC,LC
+P78,Bosque resinoso templado andino de Fitzroya cupressoides,Bosque resinoso de coníferas,3104,3097,0.00,0.218527436834336,LC,LC,LC
+P79,Bosque resinoso templado costero de Pilgerodendron uviferum - Tepualia stipularis,Bosque resinoso de coníferas,2829,2820,0.00,0.309721354716473,LC,LC,LC
+P80,Bosque resinoso templado costero de Pilgerodendron uviferum / Astelia pumila,Bosque resinoso de coníferas,8423,8422,0.00,0.0037922120454823,LC,LC,LC
+P81,Bosque siempreverde templado andino de Nothofagus dombeyi / Gaultheria phillyreifolia,Bosque siempreverde,651,646,0.0034444750620159,0.775242857662946,LC,LC,LC
+P82,Bosque siempreverde templado andino de Nothofagus dombeyi - Saxegothaea conspicua,Bosque siempreverde,3038,3019,0.00,0.642611260720528,LC,LC,LC
+P83,Bosque siempreverde templado andino de Austrocedrus chilensis - Nothofagus dombeyi,Bosque siempreverde,171,152,0.0492832571633233,11.0205811845875,LC,LC,LC
+P84,Bosque siempreverde templado interior de Nothofagus nitida - Podocarpus nubigenus,Bosque siempreverde,18319,15497,0.967843297349739,15.4063911862843,LC,LC,LC
+P85,Bosque siempreverde templado interior de Nothofagus betuloides / Desfontainia fulgens,Bosque siempreverde,9437,9397,0.00,0.432624031261653,LC,LC,LC
+P86,Bosque siempreverde templado andino de Nothofagus betuloides - Laureliopsis philippiana,Bosque siempreverde,538,528,0.00,1.89667349901309,LC,LC,LC
+P87,Bosque siempreverde templado andino de Nothofagus betuloides / Chusquea macrostachya,Bosque siempreverde,4809,4650,0.00,3.29895087080841,LC,LC,LC
+P88,Bosque mixto templado andino de Nothofagus betuloides / Berberis ilicifolia,Bosque siempreverde,2598,2511,0.00,3.35696530112027,LC,LC,LC
+P89,Bosque mixto templado-antiboreal andino de Nothofagus betuloides - Nothofagus pumilio,Bosque siempreverde,5267,5266,0.00,0.0115815423933583,LC,LC,LC
+P90,Bosque siempreverde antiboreal costero de Nothofagus betuloides - Embothrium coccineum,Bosque siempreverde,7617,7617,0.00,0.0,LC,LC,LC
+P91,Bosque siempreverde templado-antiboreal costero de Nothofagus betuloides - Drimys winteri,Bosque siempreverde,38840,38840,0.00,0.0,LC,LC,LC
+P92,Matorral siempreverde templado costero de Pilgerodendron uviferum - Nothofagus nitida,Matorral siempreverde,3463,3463,0.00,0.0,LC,LC,LC
+P93,Turbera templada costera de Donatia fascicularis - Oreobolus obtusangulus,Turbera,15354,15354,0.00,0.0,LC,LC,LC
+P94,Turbera antiboreal costera de Astelia pumila - Donatia fascicularis,Turbera,9127,9127,0.00,0.0,LC,LC,LC
+P95,Turbera templada-antiboreal costera de Bolax caespitosus - Phyllachne uliginosa,Turbera,5654,5654,0.00,0.0,LC,LC,LC
+P96,Turbera templada-antiboreal interior de Sphagnum magellanicum / Schoenus antarcticus,Turbera,3745,3745,0.00,0.0,LC,LC,LC
+P97,Matorral bajo tropical andino de Fabiana ramulosa - Diplostephium meyenii,Matorral bajo de altitud,6781,6745,0.00,0.520387994535398,LC,LC,LC
+P98,Matorral bajo tropical andino de Parastrephia lucida - Azorella compacta,Matorral bajo de altitud,3168,3165,0.00,0.10428647325665,LC,LC,LC
+P99,Matorral bajo tropical andino de Parastrephia lucida / Festuca orthophylla,Matorral bajo de altitud,1819,1760,0.0317354392861105,3.26299672706497,LC,LC,LC
+P100,Matorral bajo tropical andino de Parastrephia lepidophylla - P. qudrangularis,Matorral bajo de altitud,7042,7042,0.0157705480548733,0.0118893380795271,LC,LC,LC
+P101,Matorral bajo tropical andino de Azorella compacta - Pycnophyllum molle,Matorral bajo de altitud,2056,2052,0.03247205818995,0.218964808306708,LC,LC,LC
+P102,Matorral bajo tropical andino de Fabiana denudata - Chuquiraga atacamensis,Matorral bajo de altitud,3996,3992,0.00175983227057386,0.104363630475973,LC,LC,LC
+P103,Matorral bajo tropical andino de Fabiana squamata / Festuca chrysophylla,Matorral bajo de altitud,3962,3940,0.00402327120987999,0.567459369781915,LC,LC,LC
+P104,Matorral bajo tropical andino de Fabiana bryoides - Parastrephia quadrangularis,Matorral bajo de altitud,7661,7661,0.014073741025394,0.0,LC,LC,LC
+P105,Matorral bajo tropical andino de Mulinum crassifolium - Urbania pappigera,Matorral bajo de altitud,9297,9210,-0.00142778652602561,0.934576654698503,LC,LC,LC
+P106,Matorral bajo tropical andino de Artemisia copa / Jarava frigida,Matorral bajo de altitud,2128,2128,0.00,0.0,LC,LC,LC
+P107,Matorral bajo tropical andino de Adesmia frigida / Jarava frigida,Matorral bajo de altitud,3479,3479,-0.00533929195442585,0.0,LC,LC,LC
+P108,Matorral bajo tropical-mediterráneo andino de Adesmia hystrix - Ephedra breana,Matorral bajo de altitud,6554,6538,-0.0080801485884618,0.246596293225025,LC,LC,LC
+P109,Matorral bajo tropical-mediterráneo andino de Adesmia subterranea - Adesmia echinus,Matorral bajo de altitud,5315,5312,0.00,0.0610892696537917,LC,LC,LC
+P110,Matorral bajo mediterráneo costero de Chuquiraga oppositifolia - Mulinum spinosum,Matorral bajo de altitud,55,55,0.00,0.0,LC,LC,LC
+P111,Matorral bajo mediterráneo andino de Chuquiraga oppositifolia - Nardophyllum lanatum,Matorral bajo de altitud,4086,4060,0.00,0.617610608707963,LC,LC,LC
+P112,Matorral bajo mediterráneo andino de Laretia acaulis - Berberis empetrifolia,Matorral bajo de altitud,5657,5647,0.00,0.166979570321729,LC,LC,LC
+P113,Matorral bajo mediterráneo andino de Chuquiraga oppositifolia - Discaria articulata,Matorral bajo de altitud,3441,3435,0.378326572965021,0.180254075455451,LC,LC,LC
+P114,Matorral bajo templado andino de Discaria chacaye / Berberis empetrifolia,Matorral bajo de altitud,3435,3421,0.072995306112397,0.414291265545714,LC,LC,LC
+P115,Matorral bajo templado andino de Adesmia longipes - Senecio bipontinii,Matorral bajo de altitud,2986,2986,0.00,0.0,LC,LC,LC
+P116,Matorral bajo antiboreal andino de Bolax gummifera - Azorella selago,Matorral bajo de altitud,6961,6961,0.00,0.0,LC,LC,LC
+P117,Herbazal tropical-mediterráneo andino de Chaetanthera sphaeroidalis,Herbazal de altitud,6595,6574,0.00,0.327088182363809,LC,LC,LC
+P118,Herbazal mediterráneo andino de Nastanthus spathulatus - Menonvillea spathulata,Herbazal de altitudl,2318,2310,0.00,0.34330705685673,LC,LC,LC
+P119,Herbazal mediterráneo andino de Oxalis adenophylla - Pozoa coriacea,Herbazal de altitud,953,953,0.00,0.0,LC,LC,LC
+P120,Herbazal templado andino de Nassauvia dentata - Senecio portalesianus,Herbazal de altitud,11137,11118,0.00,0.17171005815446,LC,LC,LC
+P121,Herbazal antiboreal andino de Nassauvia pygmaea - N. lagascae,Herbazal de altitud,4401,4401,0.00,0.0,LC,LC,LC
+P122,Estepa mediterránea-templada oriental de Festuca pallescens / Mulinum spinosum,Estepas y Pastizales,3271,3127,0.00,4.38231419780863,LC,LC,LC
+P123,Estepa mediterránea oriental de Festuca gracillima,Estepas y Pastizales,6354,6354,0.00,0.0,LC,LC,LC
+P124,Estepa mediterránea-templada oriental de Festuca gracillima / Mulinum spinosum,Estepas y Pastizales,6892,6890,0.00,0.0341682882941257,LC,LC,LC
+P125,Estepa mediterránea-templada oriental de Festuca gracillima / Chiliotrichum diffusum,Estepas y Pastizales,8029,7983,0.00,0.565801434223729,LC,LC,LC
