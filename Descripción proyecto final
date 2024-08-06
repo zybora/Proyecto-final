@@ -1,0 +1,11 @@
+La base de datos analisada corresponde a bosque chileno, su superficie total, su perdida historica y su perdida proyectada a 50 años. Adenmas el codigo de piso, que es una sigla en este tipo de 
+base de datos, nombre del piso, que especifica el tipo de especie mas representativo de cada piso. El tipo de bosque o formacion, la superficie total   su perdida historica y su perdida proyectada
+a 50 años en KM, y los criterios de conservacion, en conjunto con una culumna final resumen, que es la que analizare, que describe la evaluaciion final. 
+
+El objetivo de analisis es, entender y medir cuales son las formaciones que mas cubren mas superficie, cuales son las que se proyectan con mayor perdida a 50 años y cuales son las que presentan mayor
+perdida historica en Km 2. 
+Junto con esto un segundo objetivo fue medir cual es el estado del arte en relacion a la conservacion de especies. 
+Las Categorías y Criterios de la Lista Roja de la UICN de conservacion de especies son:  alto riesgo (AR )de extinción global (EG).
+Divide especies en nueve categorías: No Evaluado (NE), Datos Insuficientes (DD), Preocupación Menor (LC), Casi Amenazado (NT), Vulnerable (VU), En Peligro (EN), En Peligro Crítico(CR), 
+Extinto en Estado Silvestre(EW) y Extinto(EX).
+
